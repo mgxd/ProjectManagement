@@ -1,47 +1,42 @@
-# Weekly Meetings
+# Weekly Update
 
-* [14th July 2017](#date-14th-july-2017)
+* [15th September 2017](#date-15th-september-2017)
 
-### Date: 14th July 2017
-...
+### Date: 15th September 2017
 
----
+#### Who did I help this week?
 
-## Template (Copy template, add date link on top, and replace text, newest first)
+* I met with Maiya and ran the Mindboggle pipeline on her montreal project. Afterwards, we visualized the results.
+* I helped Julia with HTML/CSS as she set up her website.
 
-### Date: [INSERT DATE OF MEETING]
+#### Who helped me this week?
 
-#### Who did you help this week?
+* Jakub and Xavier helped me scan by yellowing badging.
+* Satra helped me understand how to properly specify fieldmaps.
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+#### What did I achieve?
 
+* I consented and scanned 2 participants for voice.
+* I answered a few questions on neurostars.
+* I ran some of BANDA **completely** through the BIDS-App HCP_Pipeline.
+* I started to work on breaking up and debugging the newly changed heudiconv.
 
-#### Who helped you this week?
+#### What did I struggle with?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* Making dcmstack python 3 compatible
 
-#### What did you achieve?
+#### What would I like to work on next week?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Add brainmask to Mindboggle to allow better segmentation of lesions (is this possible without creating a new template?). 
+* Packaging heudiconv
+* Prepare some slides for Datablitz
+* Continue processing other BIDS projects with BIDS-Apps (Automate this process as best as I can)
 
-#### What did you struggle with?
+#### Where do I need help?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
-
-#### What would you like to work on next week?
-
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Where do you need help from Kirstie?
-
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Mindboggle with lesions (Satra)
+* Finding more controls for voice
 
 #### Any other topics
 
-This space is yours to add to as needed.
+Spending some time on ML this week - possibly DL
