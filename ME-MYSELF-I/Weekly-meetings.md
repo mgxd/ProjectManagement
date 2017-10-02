@@ -1,5 +1,48 @@
 # Weekly Update
 
+* [29th September 2017](#date-29th-september-2017)
+
+### Date: 29th September 2017
+
+#### Who did I help this week?
+
+* Jakub and I helped Nick with some simulations that randomize voxels across time but keep its position within the image
+
+#### Who helped me this week?
+
+* Satra met with me and we went over a few things
+* Andrea will help with the voice recruiting
+
+#### What did I achieve?
+
+* more refactoring - very close to finishing the heudiconv upgrade
+* ran all ~650 camcan subjects through mindboggle + partly through fmriprep
+* mindboggled voice
+
+#### What did I struggle with?
+
+* encountered a problem with voice in fmriprep - need to investigate more
+* some IRB paperwork for texas/autoxy (need to meet with satra)
+
+#### What would I like to work on next week?
+
+* Packaging heudiconv
+* convert MTBI-Texas to BIDS(again) and validate - didn't get to it last week
+* Banda l1 processing
+* cerebellar analysis for montreal
+
+#### Where do I need help?
+
+* IRB updates
+
+#### Any other topics
+
+still interested in:
+* Machine learning with lab QC data - can we make a DNN to pass/fail our data??
+* After RF heudiconv - run a labwide conversion seminar to get other data in BIDS
+
+-----
+
 * [22nd September 2017](#date-22nd-september-2017)
 
 ### Date: 22nd September 2017
