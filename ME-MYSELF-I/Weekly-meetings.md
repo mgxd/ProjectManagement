@@ -1,5 +1,48 @@
 # Weekly Update
 
+* [13th October 2017](#date-13th-october-2017)
+
+### Date: 13th October 2017
+
+#### Who did I help this week?
+
+* I helped Nick with OM + singularity
+* I helped Todd with running fmriprep on OM
+* Checked task modeling for Anila
+
+#### Who helped me this week?
+
+* Andrea with recruitment
+* Various people on the ANTs repo
+
+#### What did I achieve?
+
+* Statistical comparisons of subcortical and cerebellar regions for Maiya's montreal project
+* Scheduled more controls for voice
+* Working branch of heudiconv - just needs testing updates
+
+#### What did I struggle with?
+
+* Unable to come to a conclusion on the task modeling - we should set up meeting with satra
+* Voice consents since redcap was down
+
+#### What would I like to work on next week?
+
+* Brain Plotting enhancements now that nibabel 2.2 is out
+* Voice consents/scans
+* convert MTBI-Texas to BIDS(again) and validate
+
+#### Where do I need help?
+
+* Support on nipype, lab questions
+
+#### Any other topics
+
+* Machine learning with lab QC data - can we make a DNN to pass/fail our data?? How can we establish a ground truth?
+* After RF heudiconv - run a labwide conversion seminar to get other data in BIDS
+
+-----
+
 * [6th October 2017](#date-6th-october-2017)
 
 ### Date: 6th October 2017
