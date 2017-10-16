@@ -1,5 +1,50 @@
 # Weekly Update
 
+* [6th October 2017](#date-6th-october-2017)
+
+### Date: 6th October 2017
+
+#### Who did I help this week?
+
+* I helped Andrea set up project email
+* I helped Anila review the L1 script and compared the results with SPM
+
+#### Who helped me this week?
+
+* Satra reviewed one of my PRs
+* Yoel with some stats questions
+
+#### What did I achieve?
+
+* Level one + group analysis for banda project
+* Paperwork for MTBI texas and NDAR renewal
+* Scheduled more controls for voice
+* Sorted fmriprep problem on /om (singularity + space issue, solved with changing the CACHEDIR)
+* Wrapping up some PRs for nipype
+
+#### What did I struggle with?
+
+* Heudiconv packaging had to take a backseat this week
+
+#### What would I like to work on next week?
+
+* Heudiconv RF
+* Brain Plotting enhancements
+* Voice consents/scans
+* Cerebellar + subcortical analysis
+* convert MTBI-Texas to BIDS(again) and validate
+
+#### Where do I need help?
+
+* Support on nipype, lab questions
+
+#### Any other topics
+
+* Machine learning with lab QC data - can we make a DNN to pass/fail our data?? How can we establish a ground truth?
+* After RF heudiconv - run a labwide conversion seminar to get other data in BIDS
+
+-----
+
 * [29th September 2017](#date-29th-september-2017)
 
 ### Date: 29th September 2017
