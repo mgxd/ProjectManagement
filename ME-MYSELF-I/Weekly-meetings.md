@@ -1,5 +1,46 @@
 # Weekly Update
 
+* [27th October 2017](#date-27th-october-2017)
+
+### Date: 27th October 2017
+
+#### Who did I help this week?
+
+* I help Xavier/Todd with Heudiconv/conversions
+* I helped various users with nipype questions
+
+#### Who helped me this week?
+
+* Hannah helped with scanning
+
+#### What did I achieve?
+
+* Submitted and merged some nipype PRs
+* Started working with embarc data
+* Consented and scanned control
+* Finalizing heudiconv refactor
+
+#### What did I struggle with?
+
+* Making better testing for heudiconv
+
+#### What would I like to work on next week?
+
+* Finish heudiconv PR
+* Get nipype ready for release
+* Voice consents/scans
+* Try lesionfilling with montreal data
+
+#### Where do I need help?
+
+* Support on nipype, lab questions
+
+#### Any other topics
+
+* Machine learning with lab QC data - can we make a DNN to pass/fail our data?? How can we establish a ground truth? Or another project related to ML, talk to Satra
+
+-----
+
 * [13th October 2017](#date-13th-october-2017)
 
 ### Date: 13th October 2017
